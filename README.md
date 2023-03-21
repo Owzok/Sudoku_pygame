@@ -1,6 +1,5 @@
-![py](https://img.shields.io/badge/python-3.1-blue) ![size](https://img.shields.io/badge/repo%20size-52.0%20KB-yellow)
+# 🧠 Sudoku in Pygame ![py](https://img.shields.io/badge/python-3.1-blue) ![size](https://img.shields.io/badge/repo%20size-52.0%20KB-yellow)
 
-# 🧠 Sudoku in Pygame
 A simple Sudoku in pygame python project, developed in 2021 for Prog I in UTEC
 
 ##  ❗ Requirements 
